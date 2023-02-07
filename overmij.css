@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
+.body {
+   background-color: rgb(21, 25, 205);
+   margin: 1rem;
+ }
+ .logo {
+   color: red;
+   font-family: "Indie Flower", cursive;
+   font-size: 2rem;
+ }
+ .copyright {
+   font-family: "Indie Flower", cursive;
+   margin-right: 3rem;
+   font-size: 1rem;
+   color: red;
+ }
+ .nav-link {
+   color: red;
+   font-size: 1.2rem;
+ }
+ 
